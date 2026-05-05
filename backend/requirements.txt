@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+pydantic-settings
+pymupdf
+python-docx
+celery
+redis
+openai
+anthropic
+python-dotenv
+httpx
